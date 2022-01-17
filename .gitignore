@@ -1,0 +1,7 @@
+package-lock.json
+/node-modules
+node_modules
+.env
+.idea
+/server/files
+/server/config/
